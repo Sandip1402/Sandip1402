@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sd5147083@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: billion is the first number with alphabet 'b'.
 
 <!---
 Sandip1402/Sandip1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
