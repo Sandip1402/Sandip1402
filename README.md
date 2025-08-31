@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandip1402
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... DevOps
+- 👀 I’m interested in ... Full Stack Developer
+- 🌱 I’m currently learning ... System Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sd5147083@gmail.com
 - 😄 Pronouns: ... He/Him
